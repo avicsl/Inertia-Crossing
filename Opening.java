@@ -17,7 +17,7 @@ public class Opening extends javax.swing.JFrame {
     
     public Opening() {
         
-        super ("Math Master");
+        super ("Inertia Crossing");
         this.userAnswers = userAnswers != null ? userAnswers : new HashMap<>();
         this.correctAnswers = correctAnswers != null ? correctAnswers : new HashMap<>();
         this.questions = questions != null ? questions : new HashMap<>();
